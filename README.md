@@ -48,6 +48,7 @@ htd_lync12:
 
 ## ChangeLog
 - March 9, 2021 - Intial Release
+- December 31, 2022 - Commented out Dict in Line 8 of init.py and updated the version requirement in manifest.json
 
 
 ## Code Credits
