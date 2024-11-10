@@ -1,6 +1,6 @@
 # HTD Lync12 Series integration for Home Assistant
 
-This integration will add the HTD Lync12 into Home Assistant.
+This integration adds support for the HTD Lync12 into Home Assistant. This fork contains some optimizations and updates of the UngluedChalice variant of the original htd_mc-home-assistant solution.
 
 ## Installation steps
 
@@ -50,12 +50,11 @@ htd_lync12:
 
 
 ## ChangeLog
-- March 9, 2021 - Intial Release
-- December 31, 2022 - Commented out Dict in Line 8 of init.py and updated the version requirement in manifest.json
-- January 2, 2022 - Updated instructions to add in restart before updating configuration.yaml
+- TBD - Intial Release
 
 
 ## Code Credits
+- https://github.com/UngluedChalice/htd-lync12-home-assistant
 - https://github.com/hikirsch/htd_mc-home-assistant
 - https://github.com/whitingj/mca66
 - https://github.com/steve28/mca66
